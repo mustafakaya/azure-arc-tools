@@ -87,3 +87,4 @@ After execution, a CSV file (`AzureArc_LicenseStatus.csv`) is generated with the
 
 **Contributions Welcome!** 🤝 Feel free to fork, improve, and submit a PR!
 
+Reference: https://learn.microsoft.com/en-us/azure/azure-arc/servers/windows-server-management-overview?tabs=portal
