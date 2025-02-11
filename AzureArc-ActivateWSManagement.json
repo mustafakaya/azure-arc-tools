@@ -1,27 +1,21 @@
 {
-  "Title": "Azure Arc Management & Monitor Workbook",
-  "Summary": "This Drop provides a single view for monitoring and reporting on Arc resources using an Azure Monitor workbook offering consistency in managing different environments.",
-  "Description": "This Jumpstart Drop provides an Azure Monitor workbook that is intended to provide a single pane of glass for monitoring and reporting on Arc resources. Using Azure's management and operations tools in hybrid, multi-cloud and edge deployments provides the consistency needed to manage each environment through a common set of governance and operations management practices. The Azure Monitor workbook acts as a flexible canvas for data analysis and visualization in the Azure portal, gathering information from several data sources and combining them into an integrated interactive experience.",
-  "Cover": "https://github.com/Azure/arc_jumpstart_drops/blob/main/workbooks/arc_management_full/images/cover.jpg",
+  "Title": "Azure Arc WS Management License Activation Script",
+  "Summary": This PowerShell script automates the process of checking and enabling Windows Server licenses for Azure Arc-enabled machines.",
+  "Description": "This PowerShell script automates the process of checking and enabling Windows Server management capabilities for Azure Arc-enabled machines.",
+  "Cover": "",
   "Authors": [
     {
-      "Name": "Jane Doe",
-      "Link": "https://www.linkedin.com/in/janedoe"
-    },
-    {
-      "Name": "John Smith",
-      "Link": "https://github.com/johnsmith"
+      "Name": "Mustafa Kaya",
+      "Link": "https://www.linkedin.com/in/mustafakaya"
     }
   ],
-  "Source": "https://github.com/Azure/arc_jumpstart_drops/tree/main/workbooks/arc_management_full",
+  "Source": "https://github.com/mustafakaya/azure-arc-tools/tree/main",
   "Type": "script_automation",
   "Difficulty": "Medium",
   "ProgrammingLanguage": [
-    "PowerShell",
-    "JSON"
+    "PowerShell"
   ],
   "Products": [
-    "Azure Monitor",
     "Arc"
   ],
   "LastModified": "2025-02-07T18:25:43.511Z",
