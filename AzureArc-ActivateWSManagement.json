@@ -1,6 +1,6 @@
 {
   "Title": "Azure Arc WS Management License Activation Script",
-  "Summary": This PowerShell script automates the process of checking and enabling Windows Server licenses for Azure Arc-enabled machines.",
+  "Summary": "This PowerShell script automates the process of checking and enabling Windows Server licenses for Azure Arc-enabled machines.",
   "Description": "This PowerShell script automates the process of checking and enabling Windows Server management capabilities for Azure Arc-enabled machines.",
   "Cover": "",
   "Authors": [
