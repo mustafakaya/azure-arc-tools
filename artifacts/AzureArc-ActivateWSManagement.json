@@ -16,9 +16,16 @@
     "PowerShell"
   ],
   "Products": [
-    "Arc"
+    "Azure Arc"
   ],
   "LastModified": "2025-02-11T07:30:43.511Z",
   "CreatedDate": "2025-02-08T07:20:16.201Z",
-  "Topics": []
+  "Topics": [
+    "Azure Arc",
+    "Azure Update Manager",
+    "Azure Change Tracking and Inventory",
+    "Azure Machine Configuration",
+    "Windows Admin Center in Azure for Arc",
+    "Best Practices Assessment"
+  ]
 }
