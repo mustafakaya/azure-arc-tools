@@ -60,7 +60,7 @@ param(
     [string]   $ResourceName,                       # optional: keep or rename the Arc resource
     [string]   $ServicePrincipalId,
     [string]   $ServicePrincipalSecret,
-    [string[]] $Tags,                               # e.g. @('project=MCIT-SQL-Reclass','wave=1')
+    [string[]] $Tags,                               # e.g. @('project=PROJECT NAME','wave=1')
     [string]   $Cloud                 = 'AzureCloud',
     [string]   $CorrelationId,
     [string]   $BackupPath            = (Join-Path $env:ProgramData 'ArcMigration'),
