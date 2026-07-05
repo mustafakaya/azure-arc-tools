@@ -1,0 +1,4 @@
+MachineName,ResourceGroup,NewResourceName
+server-qc-01,rg-arc-qatarcentral,
+server-qc-02,rg-arc-qatarcentral,
+server-qc-07,rg-arc-qatarcentral,server-we-07
